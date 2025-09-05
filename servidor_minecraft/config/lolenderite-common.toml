@@ -9,5 +9,5 @@
 
 				["Config for Enderite"."Enderite Misc".enderite.end.city]
 					#boolean - default | true
-					loot = true
+					loot = false
 

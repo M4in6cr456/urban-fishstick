@@ -15,8 +15,16 @@ replacementBlocks = ["stone", "deepslate", "andesite", "calcite", "diorite", "di
 
 [the_nether]
 enabled = true
-engineMode = 1
+engineMode = 3
 maxBlockHeight = 128
 updateRadius = 2
 lavaObscures = true
 hiddenBlocks = ["ancient_debris", "nether_quartz_ore", "nether_gold_ore", "gold_block", "gilded_blackstone"]
+
+[the_end]
+enabled = true
+engineMode = 3
+maxBlockHeight = 384
+updateRadius = 2
+lavaObscures = true
+hiddenBlocks = ["irradium_ore", "adamantite_node", "primordial_remnants", "bismuth_ore"]
